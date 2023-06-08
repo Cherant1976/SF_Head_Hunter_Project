@@ -5,7 +5,7 @@
 [2. Краткая информация о данных](https://github.com/Cherant1976/SF_Head_Hunter_Project#Краткая-информация-о-данных)  
 [3. Этапы выполнения заданий учебного проекта](https://github.com/Cherant1976/SF_Head_Hunter_Project#Этапы-выполнения-заданий-учебного-проекта)  
 [4. Используемые библиотеки python](https://github.com/Cherant1976/SF_Head_Hunter_Project#Используемые-библиотеки-python)    
-[5. Примечание](https://github.com/Cherant1976/SF_Head_Hunter_Project#Примечание) 
+[5. Примечание к графикам plotly](https://github.com/Cherant1976/SF_Head_Hunter_Project#Примечание-к-графикам -plotly) 
 
 ### Описание учебного проекта    
 Учебный проект: Анализ данных людей ищущих работу на платформе [**Head Hunter**](https://hh.ru/).
@@ -42,11 +42,13 @@ import plotly.express as px
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Head_Hunter_Project#Оглавление)
 
 ---
-### Примечание:  
+### Примечание к графикам **plotly**:  
 Графики код для которых написан с использованием библиотеки **plotly** могут отображаться некорректно. Просмотр указанных графиков доступен в браузере, *html* файлы для этого находятся в папке [**plotly**](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/plotly)
 
-Если у вас не получится просомтреть файлы в папке, используйте ссылки ниже:
-- https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/bar_salary_education.html
+Если у вас не получится просмотреть файлы в папке, для просмотра в  браузере используйте ссылки ниже:
+- [**ГРАФИКИ задание 4**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/bar_salary_education.html)
+- [**ГРАФИКИ задание 5**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/box_salary_city.html)
+- [**ГРАФИКИ задание 6**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/box_salary_move.html)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Head_Hunter_Project#Оглавление)
 
