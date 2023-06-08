@@ -15,7 +15,7 @@
 
 ### Краткая информация о данных:
 1.  Данные формата *csv* предоставлены в рамках обучения. Основной файл из-за значительного размера (около 400 МБ) не загружен на *github*, но он есть в открытом доступе на [**google disk**](https://drive.google.com/file/d/1NHbwcT2uF8Gl_qKr_zxIPUQatEXA7cBv/view?usp=sharing). В основном файле содержатся данные, которые люди размещают о себе для поиска работы
-2. Вспомогательный файл с курсами валют находится в папке **data\ExchangeRates**
+2. Вспомогательный файл с курсами валют находится в папке [**data\ExchangeRates**](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/data/ExchangeRates)
   
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Head_Hunter_Project.README.md#Оглавление)
 
@@ -43,7 +43,7 @@ import plotly.express as px
 
 ---
 ### Примечание:  
-Графики код для которых написан с использованием библиотеки **plotly** могут отображаться некорректно. Просмотр указанных графиков доступен в браузере, *html* файлы для этого находятся в папке **plotly**
+Графики код для которых написан с использованием библиотеки **plotly** могут отображаться некорректно. Просмотр указанных графиков доступен в браузере, *html* файлы для этого находятся в папке [**plotly**](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/plotly)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Head_Hunter_Project.README.md#Оглавление)
 
