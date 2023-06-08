@@ -48,7 +48,7 @@ import plotly.express as px
 Если у вас не получится просмотреть файлы в папке, для просмотра в  браузере используйте ссылки ниже:
 - [**ГРАФИКИ задание 4**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/bar_salary_education.html)
 - [**ГРАФИКИ задание 5**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/box_salary_city.html)
-- [**ГРАФИКИ задание 6**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/box_salary_move.html)
+- [**ГРАФИКИ задание 6**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/bar_salary_move.html)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Head_Hunter_Project#Оглавление)
 
