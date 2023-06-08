@@ -4,11 +4,11 @@
 [1. Описание учебного проекта](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/README.md#Описание-учебного-проекта)   
 [2. Краткая информация о данных](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/README.md#Краткая-информация-о-данных)  
 [3. Этапы выполнения заданий учебного проекта](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/README.md#Этапы-выполнения-заданий-учебного-проекта)  
-[4. Используемые библиотеки](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/README.md#Используемые-библиотеки)    
+[4. Используемые библиотеки python](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/README.md#Используемые-библиотеки-python)    
 [5. Примечание](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/README.md#Примечание) 
 
 ### Описание учебного проекта    
-Учебный проект: Анализ данных людей ищущих работу на платформе [Head Hunter](https://hh.ru/).
+Учебный проект: Анализ данных людей ищущих работу на платформе [**Head Hunter**](https://hh.ru/).
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/README.md#Оглавление)
 
