@@ -5,7 +5,7 @@
 [2. Краткая информация о данных](https://github.com/Cherant1976/SF_Head_Hunter_Project#Краткая-информация-о-данных)  
 [3. Этапы выполнения заданий учебного проекта](https://github.com/Cherant1976/SF_Head_Hunter_Project#Этапы-выполнения-заданий-учебного-проекта)  
 [4. Используемые библиотеки python](https://github.com/Cherant1976/SF_Head_Hunter_Project#Используемые-библиотеки-python)    
-[5. Примечание к графикам plotly](https://github.com/Cherant1976/SF_Head_Hunter_Project#Примечание-к-графикам -plotly) 
+[5. Примечание к графикам plotly](https://github.com/Cherant1976/SF_Head_Hunter_Project#Примечание-к-графикам-plotly) 
 
 ### Описание учебного проекта    
 Учебный проект: Анализ данных людей ищущих работу на платформе [**Head Hunter**](https://hh.ru/).
