@@ -45,6 +45,9 @@ import plotly.express as px
 ### Примечание:  
 Графики код для которых написан с использованием библиотеки **plotly** могут отображаться некорректно. Просмотр указанных графиков доступен в браузере, *html* файлы для этого находятся в папке [**plotly**](https://github.com/Cherant1976/SF_Head_Hunter_Project/tree/master/plotly)
 
+Если у вас не получится просомтреть файлы в папке, используйте ссылки ниже:
+- https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Head_Hunter_Project/blob/master/plotly/bar_salary_education.html
+
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Head_Hunter_Project#Оглавление)
 
 
